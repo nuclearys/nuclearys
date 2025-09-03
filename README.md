@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm at the beginning DS. I hope find a interesting people in science field</p>
+<p align="left">I'm at the beginning DS. I hope find a interesting people in science field ML and DS</p>
 
 ###
 

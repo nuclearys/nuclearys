@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Hello, my name is Andrey!</h1>
+<h1 align="center">Hello, my name is Andrey Dolgov!</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I'm at the beginning DS</p>
+<p align="left">I'm at the beginning DS. I hope find a interesting people in science field</p>
 
 ###
 
@@ -29,7 +29,15 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=git" height="40" alt="python logo"  />
+  <img width="12" />
+      <img src="https://skillicons.dev/icons?i=discord" height="40" alt="python logo"  />
+  <img width="12" />
+        <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="python logo"  />
+  <img width="12" />
 </div>
+
+
 
 <!--
 **ADanUser/ADanUser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
